@@ -1,0 +1,21 @@
+# mlops-study-lab
+
+Este repositório contém a estrutura do ambiente de estudos em Python, IA e MLOps
+configurado com WSL, Conda e Jupyter Lab. A organização inclui módulos de estudo,
+PDFs gerados e notebooks para estudo progressivo.
+
+## Estrutura
+
+- `/estudos`: pastas com conteúdos de estudo por módulo
+- PDFs de documentação técnica
+- README com guia de uso
+
+Este projeto foi criado para estudo sólido e replicável de Python ao MLOps.
+# Sala de Aula – Python, IA e MLOps
+
+Este repositório contém a configuração completa de uma sala de aula
+para estudos em Python, Data Science, Machine Learning, Deep Learning e MLOps,
+utilizando WSL, Conda e Jupyter Lab.
+
+O objetivo é estudar do nível iniciante ao avançado com base sólida e reproduzível.
+
